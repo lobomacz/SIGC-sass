@@ -1,0 +1,22 @@
+{
+  "name": "sigc-sass",
+  "version": "1.0.0",
+  "description": "SASS for Sistema de Información y Gestión del Conocimiento",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lobomacz/SIGC-sass.git"
+  },
+  "author": "Marvin Córdoba Zamora",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/lobomacz/SIGC-sass/issues"
+  },
+  "homepage": "https://github.com/lobomacz/SIGC-sass#readme",
+  "devDependencies": {
+    "sass": "^1.26.5"
+  }
+}
